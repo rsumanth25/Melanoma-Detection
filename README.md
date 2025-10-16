@@ -95,7 +95,7 @@ python predict.py --image path/to/image.jpg
 | **A. Joshi**         | 22R01A6201  |
 | **A. Dheeraj Rao**   | 22R01A6204  |
 | **M. Raviteja**      | 22R01A6248  |
-| **R. MadhuSaio**     | 22R01A6256  |
+| **R. MadhuSai**      | 22R01A6256  |
 
 ---
 
