@@ -97,29 +97,6 @@ python predict.py --image path/to/image.jpg
 | **M. Raviteja**      | 22R01A6248  |
 | **R. MadhuSai**      | 22R01A6256  |
 
----
 
-## 🧑‍🏫 Guide
 
-**Mr. A. Srinish Reddy**
-Assistant Professor, Dept. of Computer Science and Engineering
-CMR Institute of Technology, Hyderabad
 
----
-
-## 🏛️ Institution
-
-**CMR Institute of Technology (Autonomous)**
-Affiliated to JNTUH, Approved by AICTE
-Accredited by NAAC (A+) and NBA
-📍 Kandlakoya (V), Medchal Dist., Hyderabad
-
----
-
-## 🌟 Acknowledgment
-
-We sincerely thank our guide, faculty, and department for their support and guidance throughout this project.
-
----
-
-*Developed by Team Melanoma Detection – CMRIT (2024–25)*
